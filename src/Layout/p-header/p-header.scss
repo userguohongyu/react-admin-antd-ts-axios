@@ -1,0 +1,9 @@
+.ant-layout-header {
+    background: #fff;
+    display: flex;
+    >div{
+        color:blue;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+}
