@@ -25,7 +25,7 @@ const dispatchToProps = (dispatch) => {
   };
 };
 
-//定义state内变量类型
+//定义state内变量类型,不加ts会报错
 interface typeState {
   imgSrc: string
 }
