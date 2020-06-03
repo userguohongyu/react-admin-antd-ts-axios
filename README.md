@@ -5,4 +5,4 @@
 # 搭建流程
 
 ## 一、下载ts模板、引入antd
-![截图](https://github.com/userguohongyu/img-md/blob/master/1.png)
+![截图](https://github.com/userguohongyu/img-md/blob/master/imageBox/1.png)
